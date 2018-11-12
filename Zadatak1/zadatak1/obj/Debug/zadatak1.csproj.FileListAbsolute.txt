@@ -1,0 +1,14 @@
+C:\Users\slavkomiletic\source\repos\zadatak1\zadatak1\bin\Debug\zadatak1.exe.config
+C:\Users\slavkomiletic\source\repos\zadatak1\zadatak1\bin\Debug\zadatak1.exe
+C:\Users\slavkomiletic\source\repos\zadatak1\zadatak1\bin\Debug\zadatak1.pdb
+C:\Users\slavkomiletic\source\repos\zadatak1\zadatak1\obj\Debug\zadatak1.csproj.CoreCompileInputs.cache
+C:\Users\slavkomiletic\source\repos\zadatak1\zadatak1\obj\Debug\zadatak1.exe
+C:\Users\slavkomiletic\source\repos\zadatak1\zadatak1\obj\Debug\zadatak1.pdb
+C:\Users\slavkomiletic\source\repos\zadatak1\zadatak1\obj\Debug\zadatak1.csprojResolveAssemblyReference.cache
+E:\praksa\praksa\zadatak1\zadatak1\bin\Debug\zadatak1.exe.config
+E:\praksa\praksa\zadatak1\zadatak1\bin\Debug\zadatak1.exe
+E:\praksa\praksa\zadatak1\zadatak1\bin\Debug\zadatak1.pdb
+E:\praksa\praksa\zadatak1\zadatak1\obj\Debug\zadatak1.csproj.CoreCompileInputs.cache
+E:\praksa\praksa\zadatak1\zadatak1\obj\Debug\zadatak1.exe
+E:\praksa\praksa\zadatak1\zadatak1\obj\Debug\zadatak1.pdb
+E:\praksa\praksa\zadatak1\zadatak1\obj\Debug\zadatak1.csprojAssemblyReference.cache

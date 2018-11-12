@@ -1,0 +1,6 @@
+C:\Users\slavkomiletic\source\repos\zadatak1\Expressions.BMI\bin\Debug\Expressions.BMI.dll
+C:\Users\slavkomiletic\source\repos\zadatak1\Expressions.BMI\bin\Debug\Expressions.BMI.pdb
+C:\Users\slavkomiletic\source\repos\zadatak1\Expressions.BMI\obj\Debug\Expressions.BMI.csprojResolveAssemblyReference.cache
+C:\Users\slavkomiletic\source\repos\zadatak1\Expressions.BMI\obj\Debug\Expressions.BMI.csproj.CoreCompileInputs.cache
+C:\Users\slavkomiletic\source\repos\zadatak1\Expressions.BMI\obj\Debug\Expressions.BMI.dll
+C:\Users\slavkomiletic\source\repos\zadatak1\Expressions.BMI\obj\Debug\Expressions.BMI.pdb
